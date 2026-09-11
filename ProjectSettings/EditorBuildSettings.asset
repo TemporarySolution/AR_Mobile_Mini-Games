@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/SamplesResources/Scenes/0-Main.unity
+    guid: a09cb257d566c489595b16ab37547666
+  - enabled: 0
+    path: Assets/Scene/Lw3.unity
+    guid: 16d732b2ab21d29449b27c91c4b50538
+  - enabled: 0
+    path: Assets/Scene/Lw2.1.unity
+    guid: 3f143da4c5b854941a462a8d8f8a70f2
+  - enabled: 0
+    path: Assets/Scene/Lw5.unity
+    guid: b50b34defaaa215499c99e39a584ceb1
+  - enabled: 0
+    path: Assets/Scene/Lw3.2.unity
+    guid: 6171f9f3659aa41448e2eee79dad5e35
+  - enabled: 0
+    path: Assets/Scene/Lw 7.unity
+    guid: 10da3a61264bfb9478723353d03c9cdd
+  - enabled: 0
+    path: Assets/Scene/Lw6.unity
+    guid: 73c14c286d6941a4cae1d3ce19aadeb9
+  - enabled: 0
+    path: Assets/Scene/Lw 4.unity
+    guid: 7bf42f474b46da2488101d84cc74ba37
+  - enabled: 1
+    path: Assets/Scene/Lw 8.unity
+    guid: b57a39f340adcec4c8dcd7c967d9e078
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 3d2eb3cb5bbd2a64ca63bd77af85aa67,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 890fa6a385596114e8be180cf7abafb0,
+      type: 2}
