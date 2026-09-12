@@ -74,5 +74,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# Not needed after LFS added
 # Vuforia SDK
-*.tgz
+#*.tgz
